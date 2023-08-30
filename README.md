@@ -1,6 +1,6 @@
 # Data_Science
 ### 1. Python.
-#####    Week 1
+#####    Week 1 - Basic Building 
 ######        - Variables.
 ######        - Mutable objects (list and strings).
 ######        - Operators.
