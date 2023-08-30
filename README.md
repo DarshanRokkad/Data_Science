@@ -1,4 +1,4 @@
-# Data_Science
+# <p style="text-align: center;">Data_Science</p>
 ### 1. Python.
 #####    Week 1 - Basic Building 
 ######*Tabspace*- Variables.
