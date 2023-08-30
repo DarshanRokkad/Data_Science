@@ -1,5 +1,5 @@
 # Data_Science
-#### Python 
+### 1. Python.
 #####    Week 1
 ######        - Variables.
 ######        - Mutable objects (list and strings).
