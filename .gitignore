@@ -1,5 +1,4 @@
 *.vscode/
-Data_science_master_syllabus.pdf
 *Resources/
 *.ipynb_checkpoints/
 *__pycache__/
