@@ -1,4 +1,8 @@
 # $\color{lightgreen}\Large{\text{Data \ Science}}$
+<p align="center">
+  <font size="6"><b>Data Science</b></font>
+</p>
+
 ## 1. Python
 ### &emsp;&emsp; $$\color{lightblue}\text{Week \ 1 \ - \ Basic \ Building}$$
 ##### &emsp;&emsp;&emsp;&emsp;1. Variables.
