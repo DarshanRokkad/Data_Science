@@ -12,10 +12,11 @@
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- for and for else .
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- while and while else .
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- loop contols -> break , continue and pass.
----
+##
 ### &emsp;&emsp;Week 2 - Data structures 
 ##### &emsp;&emsp;&emsp;&emsp;1. Print Function.
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("",var) 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print(f"{var}") 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("{}".format(var))
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("{firstname}".format(firstname=var))
+---
