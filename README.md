@@ -1,5 +1,5 @@
 # $$\color{lightgreen}\large{\text{Data \ Science}}$$
-## $$\text{1. \ Python}$$
+## $$\text{Python}$$
 ### &emsp;&emsp; $\text{Week \ 1 \ - \ Basic \ Building}$
 ##### &emsp;&emsp;&emsp;&emsp;1. Variables.
 ##### &emsp;&emsp;&emsp;&emsp;2. Mutable and Immutable objects.
