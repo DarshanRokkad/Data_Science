@@ -1,6 +1,6 @@
 # $\color{lightgreen}\Large{\text{Data \ Science}}$
 <p align="center">
-  <font size="6"><b>Data Science</b></font>
+  <font size="20"><b>Data Science</b></font>
 </p>
 
 ## 1. Python
