@@ -18,4 +18,4 @@
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("",var) 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print(f"{var}") 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("{}".format(var))
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("{firstname}".format(var))
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- print("{firstname}".format(firstname=var))
