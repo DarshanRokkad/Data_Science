@@ -1,5 +1,5 @@
 # $${\color{lightgreen}Data \space Science}$$ Data Science
-$\mathfrak{\color{lightgreen}{Data \Science}}$
+# $\mathfrak{\color{lightgreen}{Data \ Science}}$
 ## 1. Python
 ### &emsp;&emsp;Week 1 - Basic Building 
 ##### &emsp;&emsp;&emsp;&emsp;1. Variables.
