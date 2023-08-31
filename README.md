@@ -1,4 +1,4 @@
-# $\color{lightgreen}\Large{Data \ Science}$ 
+# $\color{lightgreen}\Large{\text{Data \ Science}}$ 
 ## 1. Python
 ### &emsp;&emsp;Week 1 - Basic Building 
 ### &emsp;&emsp; $$\color{lightblue}\text{Week \ 1 \ - \ Basic \ Building}$$
