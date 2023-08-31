@@ -1,6 +1,6 @@
 # $$\color{lightgreen}\large{\text{Data \ Science}}$$
 ## 1. Python
-### &emsp;&emsp; $\color{lightyellow}\text{Week \ 1 \ - \ Basic \ Building}$
+### &emsp;&emsp; $\color{lightorange}\text{Week \ 1 \ - \ Basic \ Building}$
 ##### &emsp;&emsp;&emsp;&emsp;1. Variables.
 ##### &emsp;&emsp;&emsp;&emsp;2. Mutable and Immutable objects.
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- list.
