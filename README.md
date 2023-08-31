@@ -1,4 +1,4 @@
-# <div align="center"><h2>$\color{lightgreen}\text{Data \ Science}$</h2></div>
+# <div align="center"><h3>$\color{lightgreen}\text{Data \ Science}$</h3></div>
 ## 1. Python
 ### &emsp;&emsp; $$\color{lightblue}\text{Week \ 1 \ - \ Basic \ Building}$$
 ##### &emsp;&emsp;&emsp;&emsp;1. Variables.
