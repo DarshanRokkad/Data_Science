@@ -21,7 +21,7 @@
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- while(condition).
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- while/for else .
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- loop contols -> break , continue and pass.
----
+##
 
 ### &emsp;&emsp;Week 2 - Data structures 
 ##### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. Print Function.
@@ -71,5 +71,6 @@
 |int,float,bool,string|List|
 |Tuple|Set|
 ||Dictionary|
----
+##
 
+---
