@@ -21,7 +21,7 @@
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- while(condition).
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- while/for else .
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- loop contols -> break , continue and pass.
----
+##
 
 ### &emsp;&emsp;Week 2 - Data structures 
 ##### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. Print Function.
@@ -35,7 +35,6 @@
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- int(var) 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- float(var) 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- str(var) 
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- bin(var) [binary representation]
 ##### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4. Additional useful functions.
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Address -> id(var).
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Binary representation -> bin(var).
@@ -72,5 +71,6 @@
 |int,float,bool,string|List|
 |Tuple|Set|
 ||Dictionary|
----
+##
 
+---
