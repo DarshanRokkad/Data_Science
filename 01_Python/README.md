@@ -18,6 +18,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - while(condition).
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - while/for else .
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - loop contols -> break , continue and pass.
+##
 
 ## $~~~~~~$ Week 2 - Data structures 
 ##### $~~~~~~~~~~~~~~~~~~~$ 1. Print Function.
@@ -68,6 +69,7 @@
 |int,float,bool,string|List|
 |Tuple|Set|
 ||Dictionary|
+##
 
 
 ## $~~~~~~$ Week 3 - Functions
@@ -97,6 +99,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Filter.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - To Filter out the elements in iterables based on some condition.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Syntax : filter(func,iterable) --> filter object.
+##
 
 
 ## $~~~~~~$ Week 4 - OOPS
@@ -161,6 +164,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Anotation -> @\<access function\>.setter
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 3.Deleter.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Anotation -> @\<access function\>.deleter
+##
 
 
 ## $~~~~~~$ Week 5 - Files and Exception handling and Memory management.
@@ -259,8 +263,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Use of send and recieve connection(In whatsapp messaging ).
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - connection.send(msg)
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - connection.recv()
-
-
+##
 
 
 ---
