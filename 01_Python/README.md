@@ -1,6 +1,6 @@
 # $$\color{lightgreen}\large{\text{Python}}$$
 
-### $~~~~~~$ Week 1 - Basic Building
+## $~~~~~~$ Week 1 - Basic Building
 ##### $~~~~~~~~~~~~~~~~~~~$ 1. Variables.
 ##### $~~~~~~~~~~~~~~~~~~~$ 2. Mutable and Immutable objects.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - list.
@@ -20,7 +20,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - loop contols -> break , continue and pass.
 ##
 
-### $~~~~~~$ Week 2 - Data structures 
+## $~~~~~~$ Week 2 - Data structures 
 ##### $~~~~~~~~~~~~~~~~~~~$ 1. Print Function.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - print("",var) 
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - print(f"{var}") 
@@ -71,7 +71,7 @@
 ||Dictionary|
 ##
 
-### $~~~~~~$ Week 3 - Functions
+## $~~~~~~$ Week 3 - Functions
 ##### $~~~~~~~~~~~~~~~~~~~$ 1.Basics.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - using of pass.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - return values (None , Multiple values).
@@ -100,7 +100,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Syntax : filter(func,iterable) --> filter object.
 ##
 
-### $~~~~~~$ Week 4 - OOPS
+## $~~~~~~$ Week 4 - OOPS
 ##### $~~~~~~~~~~~~~~~~~~~$ 1.Introduction.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Everything is a object in python.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - class \<class name\>.
@@ -164,7 +164,7 @@
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - Anotation -> @\<access function\>.deleter
 ##
 
-### $~~~~~~$ Week 5 - Files and Exception handling and Memory management.
+## $~~~~~~$ Week 5 - Files and Exception handling and Memory management.
 ##### $~~~~~~~~~~~~~~~~~~~$ 1.Working with files.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - pwd -> present working directory.
 ###### $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ - ls -> list of files present in the current folder.
