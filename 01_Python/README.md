@@ -1,8 +1,5 @@
 # $$\color{lightgreen}\large{\text{Python}}$$
 
-
-## $$\text{Python}$$
-
 ### $~~~~~~$ Week 1 - Basic Building
 ##### $~~~~~~~~~~~~~~~~~~~$ 1. Variables.
 ##### $~~~~~~~~~~~~~~~~~~~$ 2. Mutable and Immutable objects.
