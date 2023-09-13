@@ -1,4 +1,4 @@
-# $$\color{lightgreen}\large{\text{Data \ Science}}$$
+# $$\color{lightgreen}\large{\text{Python}}$$
 
 
 ## $$\text{Python}$$
