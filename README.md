@@ -8,6 +8,7 @@
 ### $~~~~~~$ Week 4 - OOPS.
 ### $~~~~~~$ Week 5 - Files , Exception handling and Memory management.
 ### $~~~~~~$ Week 6 - Connecting to Database's and API's.
+### $~~~~~~$ Week 7 - Web and Image Scrapping.
 
 ##
 
