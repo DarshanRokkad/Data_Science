@@ -1,4 +1,4 @@
-# $$ \color{lightgreen}\large{\text{Data \ Science}} $$
+# $$ {\color{lightgreen}\large{\text{Data \ Science}}} $$
 
 ##  ⋅⋅⋅ $$\large{\text{Python}}$$ 
 ###  $~~~~~~$ Week 1 - Basic Building.
