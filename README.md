@@ -1,5 +1,5 @@
-# $$ {\color{lightgreen}\large{\text{Data \ Science}}} $$
-
+$$ {\color{lightgreen}\large{\text{Data \ Science}}} $$
+# $${\color{lightgreen}Light \space Green}$$
 ##  ⋅⋅⋅ $$\large{\text{Python}}$$ 
 ###  $~~~~~~$ Week 1 - Basic Building.
 ###  $~~~~~~$ Week 2 - Data structures.
