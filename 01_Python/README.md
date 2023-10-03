@@ -1,4 +1,4 @@
-# $$\color{lightgreen}\large{\text{Python}}$$
+# Python
 
 ## Week 1 - Basic Building
 ### 1. Variables.
