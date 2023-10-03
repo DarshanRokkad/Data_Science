@@ -1,7 +1,7 @@
 # Data Science
 
 ## Python
-### Week 1 - Basic Building.
+### Week 1 - Basic Building[GitHub Pages](https://pages.github.com/).
 ### Week 2 - Data structures.
 ### Week 3 - Functions.
 ### Week 4 - OOPS.
