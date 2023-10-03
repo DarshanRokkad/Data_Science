@@ -8,6 +8,11 @@
 ### [Week 5 - Files , Exception handling and Memory management.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_05_Files_ExceptionHandling_MemoryMangagement_5_Sep)
 ### [Week 6 - Connecting to Database's and API's.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_06_Connecting_Databases_and_APIs_13_Sep)
 ### [Week 7 - Web and Image Scrapping.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_07_Web_and_Image_Scraping_25_Sep)
+
+### Projects 
+#### 1. [Flipkart review scrapper.](https://github.com/DarshanRokkad/Flipkart_review_Scrapper)
+#### 2. [Image Scrapper.](https://github.com/DarshanRokkad/Image_Scrapper/blob/master/app.py)
+
 ---
 
 ## [ML Toolbox](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox)
