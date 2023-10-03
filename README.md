@@ -1,7 +1,7 @@
 # Data Science
 
 ## [Python](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python)
-### [Week 1 - Basic Building](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_01_Basic_Building_30_Aug).
+### $${/color{white}[Week 1 - Basic Building](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_01_Basic_Building_30_Aug).}$$
 ### [Week 2 - Data structures](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_02_Data_Structures_31_Aug).
 ### [Week 3 - Functions](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_03_Functions_2_Sep).
 ### [Week 4 - OOPS](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_04_Oops_4_Sep).
