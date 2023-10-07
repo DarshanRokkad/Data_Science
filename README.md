@@ -13,7 +13,7 @@
 
 ### Projects 
 #### 1. [Flipkart review scrapper.](https://github.com/DarshanRokkad/Flipkart_review_Scrapper)
-#### 2. [Image Scrapper.](https://github.com/DarshanRokkad/Image_Scrapper/blob/master/app.py)
+#### 2. [Image Scrapper.](https://github.com/DarshanRokkad/Image_Scrapper)
 
 ---
 
