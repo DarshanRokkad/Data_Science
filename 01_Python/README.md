@@ -1,23 +1,28 @@
 # Python
 
 ## Week 1 - Basic Building
-    1. Variables.
+    1. Variables.  
+
     2. Mutable and Immutable objects.
         - list.
-        - strings.
+        - strings.  
+
     3. Operators.
         - arithmetic -> + , - , * , / , % , // .
         - logical -> and , or , not .
         - comparsion -> < , > , <= , >= .
-        - bitwise -> & , | , ~ , ^ , << , >>.
+        - bitwise -> & , | , ~ , ^ , << , >>.  
+
     4. Conditional statements.
         - if , elif and else.
-        - is , in , == , != .
+        - is , in , == , != .  
+
     5. Looping 
         - for(start,stop,step).
         - while(condition).
         - while/for else .
-        - loop contols -> break , continue and pass.
+        - loop contols -> break , continue and pass.  
+
 ##
 
 ## Week 2 - Data structures 
@@ -26,29 +31,37 @@
         - print(f"{var}") 
         - print("{}".format(var))
         - print("{firstname}".format(firstname=var))
-        - print returns 'None' type.
+        - print returns 'None' type.  
+
     2. input Function.
-        - input() 
+        - input()  
+
     3. Type casting.
         - int(var) 
         - float(var) 
-        - str(var) 
+        - str(var)  
+
     4. Additional useful functions.
         - Address -> id(var).
         - Binary representation -> bin(var).
-        - Deleting variable ->del var.
+        - Deleting variable ->del var.  
+
     5. String.
-        - Strings are immutable.
+        - Strings are immutable.  
+
     6. List.
         - Lists are Ordered and Mutable list.
         - List comprehension.
-        - Shallow copy and Deep copy in 2D array.
+        - Shallow copy and Deep copy in 2D array.  
+
     7. Tuple.
-        - Tuples are Ordered but Immutable list.
+        - Tuples are Ordered but Immutable list.  
+
     8. Set.
         - Sets are Unordered and Immutable list.
         - Sets contains Unique elements i.e no duplicates.
-        - functions -> Subset , Superset , Union , Intersection , Difference , XOR.
+        - functions -> Subset , Superset , Union , Intersection , Difference , XOR.  
+
     9. Dictionary.
         - {key:value} Dictionary is present in the form of Key and value pair.
         - Dictionary comprehension.
@@ -82,14 +95,17 @@
         - Default arguement function definition.
         - Keyword arguement function call.
         - Variable arugement [ def fun(*args) ]. (returns tuple)
-        - Keyword arugement [ def fun(**kwargs) ]. (returns dictionary)
+        - Keyword arugement [ def fun(**kwargs) ]. (returns dictionary)  
+
     2.Generator functions.
         - range(start,end,step) genrator function.
         - yield.
-        - To use memory efficiently.
+        - To use memory efficiently.  
+
     3.Lambda functions.
         - Anonymous function(do not have a name).
-        - Short hand of the function and not compulsary to use.
+        - Short hand of the function and not compulsary to use.  
+
     4.Map , Reduce and Filter.
         - Map.
             - Used to map between iterables using mapping function(maper).
@@ -99,7 +115,8 @@
             - Syntax : reduce(func,iterable,intial value) --> respectively data type.
         - Filter.
             - To Filter out the elements in iterables based on some condition.
-            - Syntax : filter(func,iterable) --> filter object.
+            - Syntax : filter(func,iterable) --> filter object.  
+
 ##
 
 
@@ -110,7 +127,8 @@
         - self parameter.
         - Constructor.
             - Syntax : def \_\_init\_\_(self).
-            - It will automatically executed when the instance of the class is created.
+            - It will automatically executed when the instance of the class is created.  
+
     2.Polymorphism.
         - A single function going to behave differently based on object.
         - Duck Typing.
@@ -118,28 +136,33 @@
             - Method overloading .
             - Operator overloading .
         - Run time polymorphism.
-            - Method overiding .
+            - Method overiding .  
+
     3.Encapsulation.
         - Binding data and function together in class.(Data + Function).
         - Private variable -> self.__var = value
         - In python private variables are not truely private.
-            - Can modify the private variable -> obj._classname__var = value
+            - Can modify the private variable -> obj._classname__var = value  
+
     4.Inheritance.
         - The method of aquiring the properties of the parent class to the child class.
         - Use : Code reusability.
         - Syntax : class child(parent):
         - Types: 
             1.Multilevel Inheritance. 
-            2.Multiple Inheritance. 
+            2.Multiple Inheritance.  
+
     5.Abstract class.
         - Abstract method will give the blue print of the class and who want to use can inherit then implement and use it.
         - import abc.
-        - Annotation -> @abc.abstractmethod
+        - Annotation -> @abc.abstractmethod  
+
     6.Decorator.
         - Decorator is used to add additional functionality to the function and avoid repeatative code. 
         - Annotation -> @decorator_function 
         - Calculating Time taken(import time).
-            - time.time() -> Gives the current time.
+            - time.time() -> Gives the current time.  
+
     7.Class variables and methods.
         - Used to pass data to class or access data from class without using \_\_init\_\_ method.
         - Anotation -> @classmethod.
@@ -148,15 +171,18 @@
             - \<classname\>.\<functionname\> = classmethod(\<function name\>)
         - To delete class variable or class methods.
             - delattr(\<class name\>,\<variable/function name\>)
-            - del \<variable/function name\>
+            - del \<variable/function name\>  
+
     8.Static methods.
         - Used to reduce memory utilization.
-        - Anotation -> @staticmethod.
+        - Anotation -> @staticmethod.  
+
     9.Magic methods.
         - Magic or Dunder methods.
         - Adivsed to not to use dunder method.
         - internally \_\_new\_\_ is called before \_\_init\_\_.
-        - dir(data_type) -> gives all the inbuilt function present in that data type class.
+        - dir(data_type) -> gives all the inbuilt function present in that data type class.  
+
     10.Property decorator.
         - Property is a decorator used to access or modify or delete the private or protected variable outside the class.
         1.Getter.
@@ -164,7 +190,8 @@
         2.Setter.
             - Anotation -> @\<access function\>.setter
         3.Deleter.
-            - Anotation -> @\<access function\>.deleter
+            - Anotation -> @\<access function\>.deleter  
+
 ##
 
 ## Week 5 - Files and Exception handling and Memory management.
@@ -187,7 +214,8 @@
         - os.path.getsize(filename) -> gives the size of the file.[import shutil]
         - shutil.copy(old,new) -> copy content of one file to another.[import stutil]
         - os.remove(filename) -> deletes the file.
-        - os.rename(old,new) -> rename the file.
+        - os.rename(old,new) -> rename the file.  
+
     2.File reading and writing.
         - json.
             - import json
@@ -199,11 +227,13 @@
             - read -> r = csv.reader(f) and for i in r:
         - binary.
             - write -> f.write(b'data')
-            - read -> print(f.read())
+            - read -> print(f.read())  
+
     3.Buffered read and write other file methods.
         - import io.
         - Write -> file = io.BufferedWriter(f) and file.write(data)
-        - Read -> file = io.BufferedReader(f) and data = file.read(chucks)
+        - Read -> file = io.BufferedReader(f) and data = file.read(chucks)  
+
     4.Logging and Debugger.
         - We can use logging to debug the code.
         - import logging.
@@ -215,12 +245,14 @@
             - 3. INFO.
             - 4. WARNING.
             - 5. ERROR.
-            - 6. CRITICAL.
+            - 6. CRITICAL.  
+
     5.Modules and import statement.
         - folder -> package.
         - file -> module.
         - methods are present inside the module.
-        - from package import module.
+        - from package import module.  
+
     6.Exception handling.
         - try.
         - except -> except Exception as e.
@@ -237,7 +269,8 @@
             - Always log the error.
             - Always avoid to write multiple exception handling.
             - Prepare documentation.
-            - Cleanup all the resources.
+            - Cleanup all the resources.  
+
     7.Multithreading.
         - Used to execute multiple process concurrently.
         - import threading.
@@ -248,7 +281,8 @@
         - time.sleep(sec) -> Thread will sleep for some seconds [import time]. 
         - for downloading files.
             - import urllib.request
-            - urllib.request.urlretrieve(url,file_name)
+            - urllib.request.urlretrieve(url,file_name)  
+
     8.Multiprocessing.
         - multiprocessing.Process(target = function_name) -> create the multiple processes.
             - m.start() 
@@ -262,7 +296,8 @@
         - multiprocessing.Pipe() -> returns 2 objects.
             - Use of send and recieve connection(In whatsapp messaging ).
             - connection.send(msg)
-            - connection.recv()
+            - connection.recv()  
+
 ##
 
 ## Week 6 - Connecting with databases and APIs
@@ -274,7 +309,8 @@
         - mydb = mysql.connector.connect(host = 'localhost',user = 'root',password = '***') -> used to connect to the database.
         - mydb.close() -> have to close the database after using.
         - mycursor = mydb.cursor() -> to get the cursor to the database.
-        - mycursor.execute('sql query') -> used to execute the query.
+        - mycursor.execute('sql query') -> used to execute the query.  
+
     2.Working with Mongodb.
         - Storing unstructured data.
         - pip install pymongo.
@@ -285,7 +321,8 @@
         - collection.insert_one(data) -> inserting a single dictionary.
         - collection.insert_many(data) -> inserting a list of dictionaries.
         - collection.find() -> gives interator to the collection to iterate over it.
-        - collection.drop() -> to drop all the values of the collection.
+        - collection.drop() -> to drop all the values of the collection.  
+
     3.Working with API.
         - Api used to communicate between different application.
             - TCP -> Transmission Control Protocol.
@@ -295,13 +332,15 @@
             - PUT , GET , POST and DELETE.
         - REST and SOUP.
             - REST -> Representational State Transfer.
-            - SOUP -> Simple Object Access Protocol.
+            - SOUP -> Simple Object Access Protocol.  
+
     4.Flask.
         - from flask import Flask
         - app = Flask(\_\_name\_\_) -> Create the object of the flask class.
         - @app.route("/") -> This routes the function present in below it in the root page.
         - app.run(host='0.0.0.0')
-        - Postman -> Used to test the code.
+        - Postman -> Used to test the code.  
+
 ##
 
 ## Week 7 - Web and Image Scraping
@@ -314,9 +353,11 @@
         - raw_page = url_client.read() -> We will get a raw html page.
         - html_page = bs(raw_page,'html.parser') -> We will get the actual html page.
         - from this html page we can extract the data -> page.find_all(element,{'class':'class name'})
-        - response = requests.get(href_link) -> to enter into inner page response we can request for page html after getting the response we can use page by converting into text.
+        - response = requests.get(href_link) -> to enter into inner page response we can request for page html after getting the response we can use page by converting into text.  
+        
     2.Image Scrapping.
         - headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"} -> Have to add to avoid the blocking from google for scrapping.
         - with open(os.path.join(save_directory, f"{query}_{image_tags.index(image_tag)}.jpg"),"wb") as f: -> have write image data in the binary form inside dictionary format so that we can store in mongodb.
-        - pip install -r requirements.txt -> before deployment.
+        - pip install -r requirements.txt -> before deployment.  
+        
 ---
