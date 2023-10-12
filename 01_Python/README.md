@@ -54,22 +54,22 @@
         - Dictionary comprehension.
         - Shallow copy and Deep copy in collections type values.
 
-            |Mutable|Unmutable|
-            |-|-|
-            |List|Tuple|
-            |Dictionary|Set|
+|Mutable|Unmutable|
+|-|-|
+|List|Tuple|
+|Dictionary|Set|
 
-            |Ordered|Unordered|
-            |-|-|
-            |List|Set|
-            |Tuple||
-            |Dictionary||
+|Ordered|Unordered|
+|-|-|
+|List|Set|
+|Tuple||
+|Dictionary||
 
-            |Hasable|Unhashable|
-            |-|-|
-            |int,float,bool,string|List|
-            |Tuple|Set|
-            ||Dictionary|
+|Hasable|Unhashable|
+|-|-|
+|int,float,bool,string|List|
+|Tuple|Set|
+||Dictionary|
 ##
 
 
