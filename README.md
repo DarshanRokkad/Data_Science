@@ -27,6 +27,6 @@
 ### Week 10 - [Statistics Basics.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_10_Statistics_Basic_5_Oct)
 ### Week 11 - [Statistics Advance 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_11_Statistics_Advance-1_7_Oct)
 ### Week 12 - [Statistics Advance 2.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_12_Statistics_Advance-2_11_Oct)
-#### [Complete Statistics Handwritten Notes](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Statistics_Notes.pdf)
+#### [Complete Statistics Handwritten Notes PDF Download](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Statistics_Notes.pdf)
 
 --- 
