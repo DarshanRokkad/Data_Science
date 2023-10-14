@@ -1,6 +1,6 @@
 # Python
 
-## Week 1 - Basic Building
+## Week 1 - [Basic Building](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_01_Basic_Building_30_Aug)
     1. Variables.  
 
     2. Mutable and Immutable objects.
@@ -25,7 +25,7 @@
 
 ##
 
-## Week 2 - Data structures 
+## Week 2 - [Data structures](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_02_Data_Structures_31_Aug) 
     1. Print Function.
         - print("",var) 
         - print(f"{var}") 
@@ -86,7 +86,7 @@
 ##
 
 
-## Week 3 - Functions
+## Week 3 - [Functions](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_03_Functions_2_Sep)
     1.Basics.
         - using of pass.
         - return values (None , Multiple values).
@@ -120,7 +120,7 @@
 ##
 
 
-## Week 4 - OOPS
+## Week 4 - [OOPS](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_04_Oops_4_Sep)
     1.Introduction.
         - Everything is a object in python.
         - class \<class name\>.
@@ -194,7 +194,7 @@
 
 ##
 
-## Week 5 - Files and Exception handling and Memory management.
+## Week 5 - [Files and Exception handling and Memory management](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_05_Files_ExceptionHandling_MemoryMangagement_5_Sep).
     1.Working with files.
         - pwd -> present working directory.
         - ls -> list of files present in the current folder.
@@ -300,7 +300,7 @@
 
 ##
 
-## Week 6 - Connecting with databases and APIs
+## Week 6 - [Connecting with databases and APIs](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_06_Connecting_Databases_and_APIs_13_Sep)
     1.Working with SQL.
         - Storing structured data.
         - mysql -u root -p -> collecting through terminal.
@@ -343,7 +343,7 @@
 
 ##
 
-## Week 7 - Web and Image Scraping
+## Week 7 - [Web and Image Scraping](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_07_Web_and_Image_Scraping_25_Sep)
     1. Web Scrapping.
         - Libraries.
             - import requests 
