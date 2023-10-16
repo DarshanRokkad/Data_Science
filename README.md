@@ -25,8 +25,8 @@
 
 ## [Statistics](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics)
 ### 1. [Statistics Basics.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_10_Statistics_Basic)
-### 2. [Statistics Advance 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_11_Statistics_Advance_1)
-### 3. [Statistics Advance 2.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_12_Statistics_Advance_2)
+### 2. [Statistics Advance 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_11_Statistics_Advance_01)
+### 3. [Statistics Advance 2.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_12_Statistics_Advance_02)
 ### [Complete Statistics Handwritten Notes PDF Download](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Statistics_Notes.pdf)
 
 --- 
