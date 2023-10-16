@@ -1,0 +1,88 @@
+2023-09-06 08:35:33,061 root INFO This is my information log.
+2023-09-06 08:39:39,120 parso.cache DEBUG pickle loaded: D:\Anconda\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-09-06 08:39:39,199 parso.cache DEBUG pickle loaded: D:\Anconda\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-09-06 08:39:55,820 parso.python.diff DEBUG diff parser start
+2023-09-06 08:39:55,821 parso.python.diff DEBUG line_lengths old: 10; new: 13
+2023-09-06 08:39:55,821 parso.python.diff DEBUG -> code[equal] old[1:9] new[1:9]
+2023-09-06 08:39:55,822 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-09-06 08:39:55,825 parso.python.diff DEBUG parse_part from 3 to 13 (to 12 in part parser)
+2023-09-06 08:39:55,825 parso.python.diff DEBUG -> code[replace] old[10:10] new[10:13]
+2023-09-06 08:39:55,825 parso.python.diff DEBUG diff parser end
+2023-09-06 08:40:57,500 parso.python.diff DEBUG diff parser start
+2023-09-06 08:40:57,500 parso.python.diff DEBUG line_lengths old: 13; new: 15
+2023-09-06 08:40:57,501 parso.python.diff DEBUG -> code[equal] old[1:12] new[1:12]
+2023-09-06 08:40:57,501 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-09-06 08:40:57,503 parso.python.diff DEBUG parse_part from 3 to 15 (to 14 in part parser)
+2023-09-06 08:40:57,504 parso.python.diff DEBUG -> code[replace] old[13:13] new[13:15]
+2023-09-06 08:40:57,504 parso.python.diff DEBUG diff parser end
+2023-09-06 08:41:04,461 parso.python.diff DEBUG diff parser start
+2023-09-06 08:41:04,461 parso.python.diff DEBUG line_lengths old: 15; new: 15
+2023-09-06 08:41:04,461 parso.python.diff DEBUG -> code[equal] old[1:14] new[1:14]
+2023-09-06 08:41:04,461 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-09-06 08:41:04,465 parso.python.diff DEBUG parse_part from 3 to 15 (to 14 in part parser)
+2023-09-06 08:41:04,465 parso.python.diff DEBUG -> code[replace] old[15:15] new[15:15]
+2023-09-06 08:41:04,466 parso.python.diff DEBUG diff parser end
+2023-09-06 08:44:13,195 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,195 root INFO This is the value of i am logging1.
+2023-09-06 08:44:13,195 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,195 root INFO This is the value of i am logging2.
+2023-09-06 08:44:13,195 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,195 root INFO This is the value of i am logging3.
+2023-09-06 08:44:13,195 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,195 root INFO This is the value of i am logging4.
+2023-09-06 08:44:13,195 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,195 root INFO This is the value of i am logging[4, 5, 6].
+2023-09-06 08:44:13,195 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,196 root INFO This is the value of i am loggingsudh.
+2023-09-06 08:44:13,196 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:13,196 root INFO This is the value of i am loggingkumar.
+2023-09-06 08:44:57,164 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,164 root INFO This is the value of i am logging 1.
+2023-09-06 08:44:57,164 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,164 root INFO This is the value of i am logging 2.
+2023-09-06 08:44:57,165 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,165 root INFO This is the value of i am logging 3.
+2023-09-06 08:44:57,165 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,165 root INFO This is the value of i am logging 4.
+2023-09-06 08:44:57,165 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,165 root INFO This is the value of i am logging [4, 5, 6].
+2023-09-06 08:44:57,165 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,165 root INFO This is the value of i am logging sudh.
+2023-09-06 08:44:57,165 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:44:57,165 root INFO This is the value of i am logging kumar.
+2023-09-06 08:48:46,331 parso.python.diff DEBUG diff parser start
+2023-09-06 08:48:46,333 parso.python.diff DEBUG line_lengths old: 15; new: 18
+2023-09-06 08:48:46,333 parso.python.diff DEBUG -> code[equal] old[1:4] new[1:4]
+2023-09-06 08:48:46,334 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-09-06 08:48:46,339 parso.python.diff DEBUG parse_part from 3 to 18 (to 17 in part parser)
+2023-09-06 08:48:46,340 parso.python.diff DEBUG -> code[insert] old[5:4] new[5:6]
+2023-09-06 08:48:46,340 parso.python.diff DEBUG -> code[equal] old[5:6] new[7:8]
+2023-09-06 08:48:46,340 parso.python.diff DEBUG -> code[insert] old[7:6] new[9:9]
+2023-09-06 08:48:46,340 parso.python.diff DEBUG -> code[equal] old[7:14] new[10:17]
+2023-09-06 08:48:46,340 parso.python.diff DEBUG -> code[replace] old[15:15] new[18:18]
+2023-09-06 08:48:46,340 parso.python.diff DEBUG diff parser end
+2023-09-06 08:48:52,228 parso.python.diff DEBUG diff parser start
+2023-09-06 08:48:52,228 parso.python.diff DEBUG line_lengths old: 18; new: 18
+2023-09-06 08:48:52,228 parso.python.diff DEBUG -> code[equal] old[1:17] new[1:17]
+2023-09-06 08:48:52,228 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-09-06 08:48:52,230 parso.python.diff DEBUG parse_part from 3 to 18 (to 17 in part parser)
+2023-09-06 08:48:52,230 parso.python.diff DEBUG -> code[replace] old[18:18] new[18:18]
+2023-09-06 08:48:52,231 parso.python.diff DEBUG diff parser end
+2023-09-06 08:49:00,858 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,858 root INFO This is the value of i am logging 1.
+2023-09-06 08:49:00,858 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,859 root INFO This is the value of i am logging 2.
+2023-09-06 08:49:00,859 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,859 root INFO This is the value of i am logging 3.
+2023-09-06 08:49:00,859 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,859 root INFO This is the value of i am logging 4.
+2023-09-06 08:49:00,859 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,859 root INFO This is the value of i am logging [4, 5, 6].
+2023-09-06 08:49:00,859 root INFO logging my j 4 and i is [4, 5, 6]
+2023-09-06 08:49:00,859 root INFO logging my j 5 and i is [4, 5, 6]
+2023-09-06 08:49:00,859 root INFO logging my j 6 and i is [4, 5, 6]
+2023-09-06 08:49:00,859 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,859 root INFO This is the value of i am logging sudh.
+2023-09-06 08:49:00,859 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar'].
+2023-09-06 08:49:00,859 root INFO This is the value of i am logging kumar.
+2023-09-06 08:49:00,859 root INFO This is my final result with all the int [1, 2, 3, 4, 4, 5, 6] , with all string ['sudh', 'kumar']
