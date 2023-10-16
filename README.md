@@ -30,3 +30,7 @@
 #### [Complete Statistics Handwritten Notes PDF Download](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Statistics_Notes.pdf)
 
 --- 
+
+## [Machine Learning](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning)
+### Week 13 - [Machine Learning Part - 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_13_Machine_Learning_Part_1_12_Oct)
+
