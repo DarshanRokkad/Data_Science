@@ -33,4 +33,5 @@
 
 ## [Machine Learning](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning)
 ### 1. [Machine Learning Part - 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_13_Machine_Learning_Part_1)
+### 2. [Exploratory Data Analysis[EDA].](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
 
