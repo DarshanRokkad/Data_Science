@@ -18,7 +18,7 @@
 ---
 
 ## [ML Toolbox](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox)
-### 1. [Numpy , Matplotlib , Seaborn , ploty and Bokeh.](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox/Week_08_Numpy_Visualization)
+### 1. [Numpy , Matplotlib , Seaborn , Ploty and Bokeh.](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox/Week_08_Numpy_Visualization)
 ### 2. [Pandas.](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox/Week_09_Pandas)
 
 ---
