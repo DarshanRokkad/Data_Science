@@ -78,9 +78,9 @@
            - ```y_interp = np.polyval(poly_fun,x_new)```  
                   
 9. Percentiles Quartiles.
-    - $\text{Percentile rank of x} = \frac{\text{Number of values below x}}{\text{n}} \times 100 $ 
-    - $\text{Value at percentile} = [\frac{Percentile}{100} \times (n + 1)] ^{th} \text{ Value}$
-       - Value tells the position of the percentile element in Dataset 
+    $$\text{Percentile rank of x} = \frac{\text{Number of values below x}}{\text{n}} \times 100 $$ 
+    $$\text{Value at percentile} = [\frac{Percentile}{100} \times (n + 1)] ^{th} \text{ Value}$$
+    - where, Value tells the position of the percentile element in Dataset 
     - Quartile
         - Q1 = 25 percentile
         - Q2 = 50 percentile (median)
@@ -95,22 +95,24 @@
         5. Maximum (excluding outliers)
     - ```Minimum , Q1 , median , Q3 , Maximum = np.quantile(list,[0,0.25,0.5,0.75,1])``` - calculation of 5 number summary using python  
     - Fence for identifying outliers
-        - lower fence = Q1 - (1.5 x IQR)
-        - upper fence = Q3 + (1.5 x IQR)
-            - IQR(Interquartile range) = Q3 - Q1.
+        $$\text{Lower fence = Q1 - (1.5 x IQR)}$$
+        $$\text{Upper fence = Q3 + (1.5 x IQR)}$$
+        $$\text{IQR(Interquartile range) = Q3 - Q1}$$
     - Box plot -> ```sns.boxplot(x = list)```  
 
 11. Feature Extraction
     - Taking out the most important feature from the dataset.
     1. Feature Scaling 
         1. Standardization
-            - $\text{Z}_{score} = \frac{X - \mu}{\sigma}$
+            $$\text{Z}_{score} = \frac{X - \mu}{\sigma}$$
         2. Normalization [Min Max Scaler]
-            - Min Max Scaler - $X_{scaled} = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
+            - Min Max Scaler 
+            $$X_{scaled} = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$$
             - Mostly used in deep learning for image data
             - range of this features will be [0,1]
         3. Unit Vector
-            - Magnitude of a vector -> |x| = $\frac{\vec{x}}{|\vec{x}|}$
+            - Magnitude of a vector 
+            $$\text{Unit vector, } \hat{x} = \frac{\vec{x}}{|\vec{x}|}$$
     2. Feature Selection
         1. Filter Method
         2. Embedded Method
@@ -162,12 +164,12 @@
 
 14. Covariance and Correlation 
     1. Covariance - tells the realtionship between 2 variables but there is no specific range for the variance values.
-       - $cov(x,y) = \sum_{i=1}^n \frac{(x_{i}- \bar{x})(y_{i}- \bar{y})}{(n-1)}$
+       $$cov(x,y) = \sum_{i=1}^n \frac{(x_{i}- \bar{x})(y_{i}- \bar{y})}{(n-1)}$$
        - ```df.cov()``` 
     2. Pearson correlation coeffient - gives correlation value in the range of -1 to +1.
-       - $r = \frac{cov(x,y)}{\sigma_{x} \times \sigma_{y}}$
+       $$r = \frac{cov(x,y)}{\sigma_{x} \times \sigma_{y}}$$
        - ```df.corr()```
     3. Spearman rank correlation - considers the rank of the feature present and gives the correlation value. 
-       - $r_{s} = \frac{cov(R(x),R(y))}{\sigma_{R(x)} \times \sigma_{R(y)}}$
+       $$r_{s} = \frac{cov(R(x),R(y))}{\sigma_{R(x)} \times \sigma_{R(y)}}$$
        - ```df.corr(method = 'spearman')```  
 
