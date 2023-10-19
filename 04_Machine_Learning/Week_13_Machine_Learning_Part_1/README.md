@@ -30,7 +30,7 @@
            - df.dropna() -> rowise.
            - df.dropna(axis = 1) -> columnwise.
         - Useful functions.
-           - df['feature'].isnull().sum()
+           - ```df['feature'].isnull().sum()```
            - df['feature'].notna() -> gives the rows which are not null.
            - df['feature'].unique() - to check the possible values of categorical data.
         - Imputation of missing values.
