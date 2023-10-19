@@ -162,7 +162,7 @@
 
 14. Covariance and Correlation 
     1. Covariance - tells the realtionship between 2 variables but there is no specific range for the variance values.
-       - $cov(x,y) = \sum _{i=1}^n \frac{(x_{i}- \bar{x})(y_{i}- \bar{y})}{(n-1)}$
+       - $cov(x,y) = \sum_{i=1}^n \frac{(x_{i}- \bar{x})(y_{i}- \bar{y})}{(n-1)}$
        - ```df.cov()``` 
     2. Pearson correlation coeffient - gives correlation value in the range of -1 to +1.
        - $r = \frac{cov(x,y)}{\sigma_{x} \times \sigma_{y}}$
