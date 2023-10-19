@@ -78,8 +78,8 @@
            - ```y_interp = np.polyval(poly_fun,x_new)```  
                   
 9. Percentiles Quartiles.
-    - Percentile = (Number of values below X / n) x 100 - n = total number of values
-    - Value = (percentile/100)x(n+1)
+    - $\text{Percentile rank of x} = \frac{\text{Number of values below x}}{\text{n}} \times 100 $ 
+    - $\text{Value at percentile} = [\frac{Percentile}{100} \times (n + 1)] ^{th} \text{ Value}$
        - Value tells the position of the percentile element in Dataset 
     - Quartile
         - Q1 = 25 percentile
@@ -104,10 +104,13 @@
     - Taking out the most important feature from the dataset.
     1. Feature Scaling 
         1. Standardization
+            - $\text{Z}_{score} = \frac{X - \mu}{\sigma}$
         2. Normalization [Min Max Scaler]
+            - Min Max Scaler - $X_{scaled} = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
             - Mostly used in deep learning for image data
             - range of this features will be [0,1]
         3. Unit Vector
+            - Magnitude of a vector -> |x| = $\frac{\vec{x}}{|\vec{x}|}$
     2. Feature Selection
         1. Filter Method
         2. Embedded Method
@@ -157,11 +160,14 @@
             - ```df['encoded'] = df['categorical feature'].map(mean_feature)```
        - ```encoder.transform([[data]])``` - for any new feature calculation  
 
-14. Covariance and Correlation
-    1. Covariance tells the realtionship between 2 variables but there is no specific range for the variance values.
-       - ```df.cov()```
+14. Covariance and Correlation 
+    1. Covariance - tells the realtionship between 2 variables but there is no specific range for the variance values.
+       - $cov(x,y) = \sum_{i=1}^n \frac{(x_{i}- \bar{x})(y_{i}- \bar{y})}{(n-1)}$
+       - ```df.cov()``` 
     2. Pearson correlation coeffient - gives correlation value in the range of -1 to +1.
+       - $r = \frac{cov(x,y)}{\sigma_{x} \times \sigma_{y}}$
        - ```df.corr()```
     3. Spearman rank correlation - considers the rank of the feature present and gives the correlation value. 
+       - $r_{s} = \frac{cov(R(x),R(y))}{\sigma_{R(x)} \times \sigma_{R(y)}}$
        - ```df.corr(method = 'spearman')```  
 
