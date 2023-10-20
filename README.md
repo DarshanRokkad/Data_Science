@@ -11,7 +11,7 @@
 ### 6. [Connecting to Database's and API's.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_06_Connecting_Databases_and_APIs)
 ### 7. [Web and Image Scrapping.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_07_Web_and_Image_Scraping)
 
-### Projects 
+### End to End Projects with deployment:
 ### 1. [Flipkart review scrapper.](https://github.com/DarshanRokkad/Flipkart_review_Scrapper)
 ### 2. [Image Scrapper.](https://github.com/DarshanRokkad/Image_Scrapper)
 
