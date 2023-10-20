@@ -166,8 +166,8 @@
     - Cost Function(which is never 0)
     $$J(\theta) = \frac{\sum_{i=1}^n [ y_{i} - h_{\theta}(x) ]^2}{n} + \left(\lambda_{1} \times \sum_{i=1}^n(slope)^2 \right)$$
     - Where,
-        - $ \lambda $ is hyperparameter 
-    - As $ \lambda $ increase 
+        - $\lambda$ is hyperparameter 
+    - As $\lambda$ increase 
         - global minima move upwards.
         - slope decreases. 
     - ```from sklearn.linear_model import Ridge```

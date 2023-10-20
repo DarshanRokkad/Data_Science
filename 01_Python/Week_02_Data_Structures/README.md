@@ -1,24 +1,24 @@
 # Data structures  
 
 1. Print Function.
-    - print("",var) 
-    - print(f"{var}") 
-    - print("{}".format(var))
-    - print("{firstname}".format(firstname=var))
+    - ```print("",var)``` 
+    - ```print(f"{var}")``` 
+    - ```print("{}".format(var))```
+    - ```print("{firstname}".format(firstname=var))```
     - print returns 'None' type.  
 
 2. Input Function.
     - input()  
 
 3. Type casting.
-    - int(var) 
-    - float(var) 
-    - str(var)  
+    - ```int(var)``` 
+    - ```float(var)``` 
+    - ```str(var)```  
 
 4. Additional useful functions.
-    - Address -> id(var).
-    - Binary representation -> bin(var).
-    - Deleting variable ->del var.  
+    - Address -> ```id(var)```.
+    - Binary representation -> ```bin(var)```.
+    - Deleting variable -> ```del var```.  
 
 5. String.
     - Strings are immutable.  
