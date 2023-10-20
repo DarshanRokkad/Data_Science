@@ -34,4 +34,9 @@
 ## [Machine Learning](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning)
 ### 1. [Machine Learning Part - 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_13_Machine_Learning_Part_1)
 ### 2. [Exploratory Data Analysis[EDA].](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
+### 3. [Linear Regression and Logistic Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
 
+### End to End Projects with deployment: 
+### 1. [Fire Weather Index(FWI) prediction in Algerian Forest Fire Dataset.](https://github.com/DarshanRokkad/forest_fire)
+
+--- 
