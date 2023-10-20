@@ -34,7 +34,7 @@
 
 4. Flask.
     - ```from flask import Flask```
-    - ```app = Flask(\_\_name\_\_)``` -> Create the object of the flask class.
+    - ```app = Flask(__name__)``` -> Create the object of the flask class.
     - ```@app.route("/")``` -> This routes the function present in below it in the root page.
     - ```app.run(host='0.0.0.0')```
     - Postman -> Used to test the code.  

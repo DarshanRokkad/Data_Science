@@ -4,7 +4,7 @@
     - class class name.
     - self parameter.
     - Constructor.
-        - Syntax : ```def \_\_init\_\_(self)```.
+        - Syntax : ```def __init__(self)```.
         - It will automatically executed when the instance of the class is created.  
 
 2. Polymorphism.
