@@ -169,19 +169,25 @@
         - $ \lambda $ is hyperparameter 
     - As $ \lambda $ increase 
         - global minima move upwards.
-        - slope decreases.  
+        - slope decreases. 
+    - ```from sklearn.linear_model import Ridge```
+    - ```from sklearn.linear_model import RidgeCV```  
           
 9. Lasso Regression [L1 regularization].
     - Used to do Feature Selection(by removing less correlated feature).
     - Cost Function
     $$J(\theta) = \frac{\sum_{i=1}^n [ y_{i} - h_{\theta}(x) ]^2}{n} + \left(\lambda_{2} \times \sum_{i=1}^n|slope| \right)$$
     - In lasso regression cost function will be 0 at 1 point at that point less correlated feature become 0.
+    - ```from sklearn.linear_model import Lasso``` 
+    - ```from sklearn.linear_model import LassoCV``` 
 
 10. Elastic Net Regression.
     - Combination of Ridge regression and Lasso regression.
     - Used to reduce Overfitting and also do Feature Selection.
     - Cost Function
     $$J(\theta) = \frac{\sum_{i=1}^n [ y_{i} - h_{\theta}(x) ]^2}{n} + \left(\lambda_{1} \times \sum_{i=1}^n(slope)^2 \right) + \left(\lambda_{2} \times \sum_{i=1}^n|slope| \right)$$
+    - ```from sklearn.linear_model import ElasticNet``` 
+    - ```from sklearn.linear_model import ElasticNetCV``` 
 
 11. [Forest Fire End to End Project.](https://github.com/DarshanRokkad/forest_fire)
     - Data Cleaning and EDA using raw dataset.
