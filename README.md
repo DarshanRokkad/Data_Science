@@ -1,7 +1,7 @@
-# Data Science
+$${\Huge \text{Data Science}}$$  
+
 
 ---
-
 ## :bookmark:[Python](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python)
 ### 1. [Basic Building.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_01_Basic_Building)
 ### 2. [Data structures.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_02_Data_Structures)
