@@ -1,5 +1,5 @@
 # Linear Regression    
-  
+---
 1. Simple Linear Regression
     - Here, We have 1 independent feature and 1 dependent feature.
     - We will find a BEST FIT LINE.
