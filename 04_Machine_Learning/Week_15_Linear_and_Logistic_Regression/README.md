@@ -1,4 +1,4 @@
-# Linear and Logistic Regression    
+# Linear Regression    
   
 1. Simple Linear Regression
     - Here, We have 1 independent feature and 1 dependent feature.
@@ -22,6 +22,7 @@
             - $y_{i}$ = actual value.
             - $h_{\theta}(x)$ = predicted value.
         - Gobal minima is the least possible value of cost function.
+        - We get a Convex function - which has only 1 global minima.
         - Gradient descent 
             - optimizer algorithm used to max or min function.
             - Gradient descent in linear regression is a parabola.
@@ -130,8 +131,7 @@
         - ```regressor.fit(x_train,y_train)```
         - ```regressor.coef_``` - coefficient or slope
         - ```regressor.intercept_``` - intercept
-        - ```regressor.predict(x_train)``` - predicting values
-    5. Test model.
+    5. Prediction.
         - ```y_pred = regressor.predict(x_test)``` - testing 
     6. Error calculation:
             - ```from sklearn.metrics import mean_squared_error,mean_absolute_error``` 
@@ -195,6 +195,152 @@
     - Deployment
         - We use AWS Elastic Beanstalk and AWS Code Pipeline.
 
-12. Logistic Regression.
-    - Logistic
+---
 
+# Logistic Regression 
+1. Logistic Regression.
+    - Used to solve classification problem.
+        - Binary Classification - dependent feautre has 2 class.  
+        - Multiclass Classification.  
+    - Here, we use the Sigmoid Activation Function for Squashing the best fit line.Hence we can get output in the range 0 to 1. 
+    - logistic regression Line equation
+    - We don't use Cost Function of linear regression
+        - When we plot a graph of $J(\theta)$ vs $\theta$ We get Non-Convex function where we have one global minima and many local minima.
+        - At local minima's our slope will get 0.Hence, Our Convergence will get stuck at those local minima's.
+        - So, in logistic Regression we use Log Loss Function
+    - Cost Function - Log Loss Function  
+        $$J(\theta_{0},\theta_{1}) = \left(-y_{i} \times log[h_{\theta}(x)] \right) - \left((1 - y_{i}) \times log[1 - h_{\theta}(x)] \right)$$
+        - Where,
+            - $J(\theta_{0},\theta_{1})$ = Cost Function.
+            - $y_{i}$ = actual point.
+            - $h_{\theta}(x)$ = predicted point.
+  
+2. Logistic Regression with Regularization.
+    1. L2 Regularization:
+        - Used to Reduce overfitting.
+        - Cost Function
+        $$J(\theta_{0},\theta_{1}) = \left(-y_{i} \times log[h_{\theta}(x)] \right) - \left((1 - y_{i}) \times log[1 - h_{\theta}(x)] \right) + \left(\lambda_{1} \times \sum_{i=1}^n(slope)^2 \right)$$
+    2. L1 Regularization:
+        - Used to do Feature Selection.
+        - Cost Function
+        $$J(\theta_{0},\theta_{1}) = \left(-y_{i} \times log[h_{\theta}(x)] \right) - \left((1 - y_{i}) \times log[1 - h_{\theta}(x)] \right) + \left(\lambda_{2} \times \sum_{i=1}^n|slope| \right)$$
+    3. Combination of L1 and L2 Regularization:
+        - It is combination of L1 and L2 Regularization.
+        - Cost Function
+        $$J(\theta_{0},\theta_{1}) = \left(-y_{i} \times log[h_{\theta}(x)] \right) - \left((1 - y_{i}) \times log[1 - h_{\theta}(x)] \right) + \left(\lambda_{1} \times \sum_{i=1}^n(slope)^2 \right)+ \left(\lambda_{2} \times \sum_{i=1}^n|slope| \right)$$
+    - In python it is denoted by -> penalty parameter.  
+      
+3. Performance Metrics.
+    1. Confusion matrix  
+        |-|1|0|Actual value|
+        |-|-|-|-|
+        |1(Positive)|True Positive|False Positive||
+        |0(Negative)|False Negative|True Negative||
+        |Predicted value|-|-|-|  
+
+          
+        $$\text{Accuracy of model} = \frac{TP + TN}{TP + FP + FN + TN}$$
+    
+    2. Accuracy 
+         $$R^2 = 1 - \frac{{\sum{ (y_{i} - \hat{y_{i}})^2}}}{{\sum{ (y_{i} - \bar{y_{i}})^2}}}$$
+        $$Adjusted_{R^2} = 1 - \frac{(1-R^2)\times(N-1)}{N-p-1}$$
+        - For a Dumb model trained with imbalanced dataset our accuracy may be high so accuracy is not only measure. 
+
+    3. Precision
+        $$Precision = \frac{TP}{TP + FP}$$
+        - We use this when False Positive(FP) is important.
+        - Example : Spam classification [If mail is not spam but model predict that mail is spam]
+
+    4. Recall
+        $$Recall = \frac{TP}{TP + FN}$$
+        - We use this when False Negative(FN) is important.
+        - Example : Diabetes classification [If person has Diabetes but model tell he donot have Diabetes] 
+    
+    5. F-Beta Score
+        $$F_{\beta} score = (1 + \beta^2) \times \frac{Precision \times Recall}{Precision + Recall}$$
+        1. If FP is more important than FN.
+            - $\beta$ = 0.5
+        $$F_{0.5} score = (0.5) \times \frac{Precision \times Recall}{Precision + Recall}$$
+        2. If both FP and FN are more important.
+            - $\beta$ = 1
+        $$F_{1} score = (2) \times \frac{Precision \times Recall}{Precision + Recall}$$
+        3. If FN is more important than FP.
+            - $\beta$ = 2
+        $$F_{2} score = (5) \times \frac{Precision \times Recall}{Precision + Recall}$$
+
+
+4. Cross Validation
+    - Used internally in the Hyperparameter Tuning to select the best parameter.
+    - We divide training data into 2 one for training and other for validation to make sure that correct hyperparameter is choosed.
+    - We get different model accuracy for different values of randam_state so we use cross validation and calculate the average of all different accuracy.
+    - Types  
+        1. Leave One Out Cross Validation[LooCV]:
+            - In entire training dataset we take only 1 datapoint for validation.
+            - Disadvantage:
+                - Training time increase 
+                - Overfitting as we select the best hyperparameter.  
+        2. Leave P out Cross Validation:
+            - Here,it's is similar to LooCV but we take P datapoints out of training dataset for validation.  
+        3. K-fold Cross Validation:
+            - K denotes number of experiment to be done.
+            - Validation datapoints are randomly selected.
+            - we take average of accuracy of all the experiments.  
+        4. Stratified K-fold Cross Validation:
+            - Used in Imbalanced dataset.
+            - It is same as K-fold CV but here we select the equal ratio for Validation.  
+ 
+5. Hyperparameter Tuning
+    - Used to select the best parameter for model training.
+    - Types
+        1. Grid Search Cross Validation:
+            - Here, we do Grid Search + Cross validation
+            - We try out all the combination and select the best accurate model then do Cross Validation.
+            - Disadvantage:
+                - Time for training increases.
+        2. Randomized Search Cross Validation:
+            - Here, We Have important parameter n_iter which tell take n random combination and do Cross Validation.
+            - Advantage:
+                - Time for training decreases.  
+
+6. Logistic Regression with Hyperparameter Tuning With Python
+    1. Divide the features based on independent and dependent features.
+    2. Train, Test split of dataset.
+        - ```from sklearn.preprocessing import train_test_split```
+        - ```x_train , x_test , y_train , y_test = train_test_split(x,y,test_size=0.2,random_state=42)```
+    3. Hyperparameter Tuning.
+        - To select the best parameters for our data.
+        - Cross validation is done internally after selecting the best combination.
+        - ```from sklearn.model_selection import GridSearchCV```
+        - ```from sklearn.model_selection import RandamizedSearchCV```
+        - ```cv_clf = GridSearchCV(classifier,param_grid = parameters,cv = 5)``` - parameters are one whose values to be choosed after hyperparameter tuning
+        - ```cv_clf.fit(x_train,y_train)```
+        - ```cv_clf.best_params_``` - best parameter that are selected from the given parameter after doing cross validation
+        - ```cv_clf.best_score_``` - how much accuracy is given by best parameter
+    4. Cross Validation.
+        - Which is done internally in Hyperparameter Tuning.
+        - ```from sklearn.model_selection import KFold```
+        - ```cv = KFold(n_split = 5)```- n_split is the K value
+        - ```from sklearn.model_selection import cross_val_score```
+        - ```cv_scores = cross_val_score(classifier,x_train,y_train,scoring = 'accuracy',cv = cv)```
+        - ```final_cv = np.mean(cv_scores)```
+    5. Train the model using LogisticRegression with best parameters selected in Hyperparameter Tuning.
+        - ```from sklearn.linear_model import LogisticRegression```
+        - ```classifier = LogisticRegression(best parameters)```
+        - ```classifier.fit(x_train,y_train)```
+        - ```classifier.predict(x_train)``` - predicting values
+    6. Prediction.
+        - ```y_pred = classifier.predict(x_test)``` 
+    7. Confusion Metrics, Accuracy and Classification Report:
+            - ```from sklearn.metrics import confusion_matrix, accuracy_score, classification_report``` 
+            - ```confusion_matrix(y_test,y_pred)``` 
+            - ```accuracy_score(y_test,y_pred)``` 
+            - ```classification_report(y_test,y_pred)``` 
+    8. Pickling.
+        - Same as Linear Regression. 
+
+7. Logistic Regression Multiclass Classification
+    - Two technique for mutliclass clasification
+        1. One Versus Rest(OVR).
+            - Uses OneHotEncoder encoding inside.
+        2. Multinomial.  
+          
