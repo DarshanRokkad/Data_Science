@@ -197,7 +197,7 @@
     - Model training, Selecting best model and Picking model using cleaned dataset.
     - Deployment
         - We use AWS Elastic Beanstalk and AWS Code Pipeline.
----
+
 ---
 <h2 align="center">
   Logistic Regression
