@@ -38,5 +38,6 @@
 
 ### End to End Projects with deployment: 
 ### 1. [Fire Weather Index(FWI) prediction in Algerian Forest Fire Dataset.](https://github.com/DarshanRokkad/forest_fire)
+### 2. [Diabetes Prediction.](https://github.com/DarshanRokkad/Diabetes_Prediction)
 
 --- 
