@@ -54,6 +54,6 @@
 </h3>  
 
 ### :dart: [Fire Weather Index Prediction](https://github.com/DarshanRokkad/forest_fire) :dart: 
-### :dart: [Diabetes Prediction](https://github.com/DarshanRokkad/Diabetes_Prediction) :dart: 
+### :dart: [Diabetes Prediction](https://github.com/DarshanRokkad/Forest_Fire) :dart: 
 
 --- 
