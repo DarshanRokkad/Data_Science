@@ -1,4 +1,4 @@
-$${\Huge \text{Data Science}}$$  
+# Data Science
 
 
 ---
