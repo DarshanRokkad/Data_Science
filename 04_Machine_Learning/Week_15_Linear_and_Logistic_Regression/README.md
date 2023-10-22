@@ -34,7 +34,7 @@
             - $\theta_{j}$ = slope of the line.
             - $\alpha$ = learning rate (tells the speed of convergence).
             - $\frac{\partial J(\theta_j)}{\partial \theta_j}$ = derivate (tells the slope at specific point in cost function).  
-  
+---
 2. Multiple Linear Regression
     - Here, we have more than 1 independent feature and 1 dependent feature.
     - We will find BEST FIT PLANE.
@@ -48,7 +48,7 @@
         - $x_{1}$ = data points of first feature.
         - $\theta_{2}$ = slope of nth feature.  
         - $x_{n} $ = data points of nth feature.
-          
+---          
 3. Polynomial Regression
     - We use this when our data has non linear relationship.
     - We will find BEST FIT CURVE.
@@ -58,7 +58,7 @@
     - Multiple polynomial regression equation
         - For polynomial degree 2 and 2 features  
         $$h_{\theta}(x) = \theta_{0} + (\theta_{1} \times x_{1}^1 + \theta_{2} \times x_{2}^1) + (\theta_{3} \times x_{1}^2 + \theta_{4} \times x_{2}^2)$$  
-          
+---          
 4. R Squared and Adjusted R Squared
     - Performance metrics.
     - Used to measure the accuracy of the model.
@@ -80,7 +80,7 @@
         - Best unit for measure of accuracy
             - As $Adjusted_{R_{squared}}$ value increase with addition of new high correlated independent feature to model.
             - As $Adjusted_{R_{squared}}$ value decerase with addition of new less correlated independent feature to model.  
-              
+---              
 5. Cost Functions
     - Used to quantify how well a model's predictions align with the actual data.
     - We consider cost function to reduce error .
@@ -114,7 +114,7 @@
             2. It is in same unit.
         - Disadvantage:
             1. It is not robust to outliers.  
-              
+---              
 6. Simple Linear Regression with Python.
     1. Divide the features based on independent and dependent features.
     2. Train, Test split of dataset.
@@ -156,10 +156,10 @@
         - ```pickle.dump(regressor,open('model.pkl','wb'))``` - saving regressor into pickle file
         - ```model = pickle.load(open('model.pkl','rb'))``` - loading regressor to enviroment
         - ```model.predict(new_scaled_data)``` - predicting output
-          
+---          
 7. Multiple Linear Regression with Python.
     - same steps as of linear regression  
-      
+---      
 8. Ridge Regression [L2 regularization].
     - Used for Reducing Overfitting(low bias and high variance).
     - Using Ridge regression we avoid cost function to become 0 indead avoiding overfitting.
@@ -172,7 +172,7 @@
         - slope decreases. 
     - ```from sklearn.linear_model import Ridge```
     - ```from sklearn.linear_model import RidgeCV```  
-          
+---          
 9. Lasso Regression [L1 regularization].
     - Used to do Feature Selection(by removing less correlated feature).
     - Cost Function
@@ -180,7 +180,7 @@
     - In lasso regression cost function will be 0 at 1 point at that point less correlated feature become 0.
     - ```from sklearn.linear_model import Lasso``` 
     - ```from sklearn.linear_model import LassoCV``` 
-
+---
 10. Elastic Net Regression.
     - Combination of Ridge regression and Lasso regression.
     - Used to reduce Overfitting and also do Feature Selection.
@@ -188,7 +188,7 @@
     $$J(\theta) = \frac{\sum_{i=1}^n [ y_{i} - h_{\theta}(x) ]^2}{n} + \left(\lambda_{1} \times \sum_{i=1}^n(slope)^2 \right) + \left(\lambda_{2} \times \sum_{i=1}^n|slope| \right)$$
     - ```from sklearn.linear_model import ElasticNet``` 
     - ```from sklearn.linear_model import ElasticNetCV``` 
-
+---
 11. [Forest Fire End to End Project.](https://github.com/DarshanRokkad/forest_fire)
     - Data Cleaning and EDA using raw dataset.
     - Model training, Selecting best model and Picking model using cleaned dataset.
@@ -214,7 +214,7 @@
             - $J(\theta_{0},\theta_{1})$ = Cost Function.
             - $y_{i}$ = actual point.
             - $h_{\theta}(x)$ = predicted point.
-  
+---  
 2. Logistic Regression with Regularization.
     1. L2 Regularization:
         - Used to Reduce overfitting.
@@ -229,7 +229,7 @@
         - Cost Function
         $$J(\theta_{0},\theta_{1}) = \left(-y_{i} \times log[h_{\theta}(x)] \right) - \left((1 - y_{i}) \times log[1 - h_{\theta}(x)] \right) + \left(\lambda_{1} \times \sum_{i=1}^n(slope)^2 \right)+ \left(\lambda_{2} \times \sum_{i=1}^n|slope| \right)$$
     - In python it is denoted by -> penalty parameter.  
-      
+---      
 3. Performance Metrics.
     1. Confusion matrix  
         |-|1|0|Actual value|
@@ -268,7 +268,7 @@
             - $\beta$ = 2
         $$F_{2} score = (5) \times \frac{Precision \times Recall}{Precision + Recall}$$
 
-
+---
 4. Cross Validation
     - Used internally in the Hyperparameter Tuning to select the best parameter.
     - We divide training data into 2 one for training and other for validation to make sure that correct hyperparameter is choosed.
@@ -288,7 +288,7 @@
         4. Stratified K-fold Cross Validation:
             - Used in Imbalanced dataset.
             - It is same as K-fold CV but here we select the equal ratio for Validation.  
- 
+--- 
 5. Hyperparameter Tuning
     - Used to select the best parameter for model training.
     - Types
@@ -301,7 +301,7 @@
             - Here, We Have important parameter n_iter which tell take n random combination and do Cross Validation.
             - Advantage:
                 - Time for training decreases.  
-
+---
 6. Logistic Regression with Hyperparameter Tuning With Python
     1. Divide the features based on independent and dependent features.
     2. Train, Test split of dataset.
@@ -337,10 +337,10 @@
             - ```classification_report(y_test,y_pred)``` 
     8. Pickling.
         - Same as Linear Regression. 
-
+---
 7. Logistic Regression Multiclass Classification
     - Two technique for mutliclass clasification
         1. One Versus Rest(OVR).
             - Uses OneHotEncoder encoding inside.
         2. Multinomial.  
-          
+---          
