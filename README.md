@@ -33,7 +33,7 @@
 
 ## :bookmark:[Machine Learning](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning)
 ### 1. [Machine Learning Part - 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_13_Machine_Learning_Part_1)
-### 2. [Exploratory Data Analysis[EDA].](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
+### 2. [Exploratory Data Analysis.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
 ### 3. [Linear Regression and Logistic Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
 
 ### End To End Projects:recycle: + Deployment :rocket:
