@@ -236,27 +236,26 @@
         |-|-|-|-|
         |1(Positive)|True Positive|False Positive||
         |0(Negative)|False Negative|True Negative||
-        |Predicted value|-|-|-|  
-
-          
+        |Predicted value|-|-|-|
+             
         $$\text{Accuracy of model} = \frac{TP + TN}{TP + FP + FN + TN}$$
     
-    2. Accuracy 
+    3. Accuracy 
          $$R^2 = 1 - \frac{{\sum{ (y_{i} - \hat{y_{i}})^2}}}{{\sum{ (y_{i} - \bar{y_{i}})^2}}}$$
         $$Adjusted_{R^2} = 1 - \frac{(1-R^2)\times(N-1)}{N-p-1}$$
         - For a Dumb model trained with imbalanced dataset our accuracy may be high so accuracy is not only measure. 
 
-    3. Precision
+    4. Precision
         $$Precision = \frac{TP}{TP + FP}$$
         - We use this when False Positive(FP) is important.
         - Example : Spam classification [If mail is not spam but model predict that mail is spam]
 
-    4. Recall
+    5. Recall
         $$Recall = \frac{TP}{TP + FN}$$
         - We use this when False Negative(FN) is important.
         - Example : Diabetes classification [If person has Diabetes but model tell he donot have Diabetes] 
     
-    5. F-Beta Score
+    6. F-Beta Score
         $$F_{\beta} score = (1 + \beta^2) \times \frac{Precision \times Recall}{Precision + Recall}$$
         1. If FP is more important than FN.
             - $\beta$ = 0.5
