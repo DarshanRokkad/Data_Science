@@ -1,4 +1,7 @@
-# Linear Regression    
+<h2 align="center">
+  Linear Regression
+</h2>  
+
 ---
 1. Simple Linear Regression
     - Here, We have 1 independent feature and 1 dependent feature.
@@ -194,10 +197,13 @@
     - Model training, Selecting best model and Picking model using cleaned dataset.
     - Deployment
         - We use AWS Elastic Beanstalk and AWS Code Pipeline.
+---
+---
+<h2 align="center">
+  Logistic Regression
+</h2>   
 
 ---
-
-# Logistic Regression 
 1. Logistic Regression.
     - Used to solve classification problem.
         - Binary Classification - dependent feautre has 2 class.  
