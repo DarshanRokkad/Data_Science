@@ -2,42 +2,42 @@
 
 ---
 
-## [Python](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python)
+## :bookmark:[Python](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python)
 ### 1. [Basic Building.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_01_Basic_Building)
 ### 2. [Data structures.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_02_Data_Structures)
 ### 3. [Functions.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_03_Functions)
 ### 4. [OOPS.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_04_Oops)
 ### 5. [Files , Exception handling and Memory management.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_05_Files_ExceptionHandling_MemoryMangagement)
 ### 6. [Connecting to Database's and API's.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_06_Connecting_Databases_and_APIs)
-### 7. [Web and Image Scrapping.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_07_Web_and_Image_Scraping)
-
-### End to End Projects with deployment:
-### 1. [Flipkart review scrapper.](https://github.com/DarshanRokkad/Flipkart_review_Scrapper)
-### 2. [Image Scrapper.](https://github.com/DarshanRokkad/Image_Scrapper)
+### 7. [Web and Image Scrapping.](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_07_Web_and_Image_Scraping)  
+  
+### End To End Projects:recycle: + Deployment :rocket:
+### 1. [Flipkart Review Scrapper](https://github.com/DarshanRokkad/Flipkart_review_Scrapper):dart:
+### 2. [Image Scrapper](https://github.com/DarshanRokkad/Image_Scrapper):dart:
 
 ---
 
-## [ML Toolbox](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox)
+## :bookmark:[ML Toolbox](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox)
 ### 1. [Numpy , Matplotlib , Seaborn , Ploty and Bokeh.](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox/Week_08_Numpy_Visualization)
 ### 2. [Pandas.](https://github.com/DarshanRokkad/Data_Science/tree/master/02_ML_Toolbox/Week_09_Pandas)
 
 ---
 
-## [Statistics](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics)
+## :bookmark:[Statistics](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics)
 ### 1. [Statistics Basics.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_10_Statistics_Basic)
 ### 2. [Statistics Advance 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_11_Statistics_Advance_01)
 ### 3. [Statistics Advance 2.](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Week_12_Statistics_Advance_02)
-### [Complete Statistics Handwritten Notes PDF Download](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Statistics_Notes.pdf)
+### [Complete Statistics Handwritten Notes PDF Download](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Statistics_Notes.pdf) :green_book: 
 
 --- 
 
-## [Machine Learning](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning)
+## :bookmark:[Machine Learning](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning)
 ### 1. [Machine Learning Part - 1.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_13_Machine_Learning_Part_1)
 ### 2. [Exploratory Data Analysis[EDA].](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
 ### 3. [Linear Regression and Logistic Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
 
-### End to End Projects with deployment: 
-### 1. [Fire Weather Index(FWI) prediction in Algerian Forest Fire Dataset.](https://github.com/DarshanRokkad/forest_fire)
-### 2. [Diabetes Prediction.](https://github.com/DarshanRokkad/Diabetes_Prediction)
+### End To End Projects:recycle: + Deployment :rocket:
+### 1. [Fire Weather Index Prediction](https://github.com/DarshanRokkad/forest_fire):dart: 
+### 2. [Diabetes Prediction](https://github.com/DarshanRokkad/Diabetes_Prediction):dart: 
 
 --- 
