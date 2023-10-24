@@ -8,7 +8,7 @@
 
 ## Week 4 - [OOPS](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_04_Oops)
 
-## Week 5 - [Files and Exception handling and Memory management](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_05_Files_ExceptionHandling_MemoryMangagement)
+## Week 5 - [Files, Exception handling and Memory management](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_05_Files_ExceptionHandling_MemoryMangagement)
 
 ## Week 6 - [Connecting with databases and APIs](https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python/Week_06_Connecting_Databases_and_APIs)
 
