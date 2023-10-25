@@ -65,12 +65,12 @@
     1. Variance.
         - It is also error.
         - Formula :
-        $$variance = \frac{(y_{i} - \bar{y})^2}{n}$$
+        $$\text{variance} = \frac{(y_{i} - \bar{y})^2}{n}$$
         - Where,
             - $\bar{y}$ - Mean of output.
     2. Variance Reduction.
         - Formula : 
-        $$variance reduction = variance(root) - \sum (W_{i} \times variance(child_i))$$
+        $$\text{variance reduction} = variance(root) - \sum (W_{i} \times variance(child_i))$$
         - Where,
             - $W_{i}$ = size of child node / Size of parent node
     - we have to select the node which have more variance reduction.
