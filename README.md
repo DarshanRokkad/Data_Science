@@ -49,6 +49,7 @@
 ### 2. [Exploratory Data Analysis.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
 ### 3. [Linear Regression and Logistic Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
 ### 4. [Decision Tree and Support Vector Machines.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_16_Descision_Trees_and_Support_Vector_Machines)
+### 5. [Naive Bayes and Ensemble Technique.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_17_Naive_Bayes_and_Ensemble_Technique)
 
 <h3 align="center">
  :recycle: End To End Projects + Deployment :rocket:
