@@ -45,12 +45,28 @@
   :bookmark:<a href="https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning">Machine Learning</a>
 </h2>  
 
+<h3>Supervised Machine Learning</h3>  
+
 ### 1. [Introduction To Machine Learning.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_13_Machine_Learning_Part_1)
 ### 2. [Exploratory Data Analysis.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_14_Exploratory_Data_Analysis)
-### 3. [Linear Regression and Logistic Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
-### 4. [Decision Tree and Support Vector Machines.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_16_Descision_Trees_and_Support_Vector_Machines)
-### 5. [Naive Bayes and Ensemble Technique.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_17_Naive_Bayes_and_Ensemble_Technique)
-### 5. [K Nearest Neighbors and Principal Component Analysis.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_18_KNN_and_PCA)
+### 3. [Linear Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
+### 4. [Logistic Regression.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_15_Linear_and_Logistic_Regression)
+### 5. [Decision Tree.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_16_Descision_Trees_and_Support_Vector_Machines)
+### 6. [Support Vector Machines.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_16_Descision_Trees_and_Support_Vector_Machines)
+### 7. [Naive Bayes.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_17_Naive_Bayes_and_Ensemble_Technique)
+### 8. [Ensemble Technique.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_17_Naive_Bayes_and_Ensemble_Technique)
+### 9. [K Nearest Neighbors.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_18_KNN_and_PCA)
+### 10. [Principal Component Analysis.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_18_KNN_and_PCA)  
+
+<h3>Unsupervised Machine Learning</h3>   
+
+### 11. [Clustering.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_19_Clustering)
+
+<h3>Semisupervised Machine Learning</h3>  
+
+### 12. [Anamaly Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_20_Anomaly_Detection_and_Time_Series)
+### 13. [Time Series.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_20_Anomaly_Detection_and_Time_Series)
+### :green_book:Complete Machine Learning Handwritten Notes : [PDF Download⬇️](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Machine_Learning_Notes.pdf) 
 
 <h3 align="center">
  :recycle: End To End Projects + Deployment :rocket:
