@@ -57,13 +57,7 @@
 ### 8. [Ensemble Technique.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_17_Naive_Bayes_and_Ensemble_Technique)
 ### 9. [K Nearest Neighbors.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_18_KNN_and_PCA)
 ### 10. [Principal Component Analysis.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_18_KNN_and_PCA)  
-
-<h3>Unsupervised Machine Learning</h3>   
-
 ### 11. [Clustering.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_19_Clustering)
-
-<h3>Semisupervised Machine Learning</h3>  
-
 ### 12. [Anamaly Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_20_Anomaly_Detection_and_Time_Series)
 ### 13. [Time Series.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_20_Anomaly_Detection_and_Time_Series)
 ### :green_book:Complete Machine Learning Handwritten Notes : [PDF Download⬇️](https://github.com/DarshanRokkad/Data_Science/tree/master/03_Statistics/Darshan_Complete_Machine_Learning_Notes.pdf) 
