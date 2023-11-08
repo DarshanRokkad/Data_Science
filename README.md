@@ -58,7 +58,7 @@
 ### 11. [Clustering.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_19_Clustering)
 ### 12. [Anamaly Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_20_Anomaly_Detection_and_Time_Series)
 ### 13. [Time Series.](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Week_20_Anomaly_Detection_and_Time_Series)
-### :green_book:Complete Machine Learning Handwritten Notes : [PDF Download⬇️](https://github.com/DarshanRokkad/Data_Science/tree/master/04_Machine_Learning/Darshan_Complete_Machine_Learning_Notes.pdf) 
+### :green_book:Complete Machine Learning Handwritten Notes : [PDF Download⬇️](https://drive.google.com/file/d/1taSlHcjhD1hsDonlkH-NXkSfZTZVhAeq/view?usp=sharing) 
 
 <h3 align="center">
  :recycle: End To End Projects + Deployment :rocket:
