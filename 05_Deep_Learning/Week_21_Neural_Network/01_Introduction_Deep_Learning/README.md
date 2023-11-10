@@ -2,7 +2,7 @@
 
 ### What is Deep Learning
 
-- Multi Model Aspect takes multiple type of data as input and given output.
+- **Multi Model Aspect** takes multiple type of data as input and given output.
 - To understand what deep learning is, we first need to understand the relationship deep learning has with machine learning, neural networks, and artificial intelligence. The best way to think of this relationship is to visualize them as concentric circles:
 
 ![introduction_to_deep_learning_pic_1](https://user-images.githubusercontent.com/70039145/230870231-2cb1387b-47c2-47d2-b37c-7532537cb5be.png)
