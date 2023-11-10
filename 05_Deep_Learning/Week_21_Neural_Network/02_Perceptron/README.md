@@ -22,7 +22,7 @@
     - Artifical Neuron is called as Perceptron.
     - Perceptron takes input from different source and then assigns some weight to those inputs then do weighted average or summation then pass into activation function then activation function check the input with the threshold if input is greater then threshold then output will be sent to next neuron.
           
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Perceptron.svg" width="500" height="300">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ArtificialNeuronModel_english.png" width="500" height="300">
      
     - Summation = $w_{1} \times x_{1} + w_{2} \times x_{2} + ...... + w_{n} \times x_{n} + bias$
     - Perceptron aim is to bring the predicted value( $\hat{y}$ ) near to actual value( y ) by reducing loss function by changing the weights and bais.
