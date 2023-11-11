@@ -3,8 +3,7 @@
 1. Biological Neuron 
     - Biological Neuron is everywhere in our body which sense the environment and take input through some sensory organs.  
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1920px-Blausen_0657_MultipolarNeuron.png"
-   width="500" height="300">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1920px-Blausen_0657_MultipolarNeuron.png" width="500" height="300">
 
     - Dendrites of neuron sense the environment and send information to brain.
     - Axon process the information to brain in form of eletrical impulse to brain.
@@ -21,10 +20,10 @@
 
 2. Artifical Neuron
     - Artifical Neuron is called as Perceptron.
-    - Perceptron takes input from different source and then assigns some weight to those inputs then do weighted average or summation then pass into activation function then activation function check the input with the threshold if input is greater then threshold then output will be sent to next neuron.  
-    
-    <a title="Chrislb / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:ArtificialNeuronModel_english.png"><img width="1024" alt="ArtificialNeuronModel english" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ArtificialNeuronModel_english.png/1024px-ArtificialNeuronModel_english.png"></a>  
-  
+    - Perceptron takes input from different source and then assigns some weight to those inputs then do weighted average or summation then pass into activation function then activation function check the input with the threshold if input is greater then threshold then output will be sent to next neuron.
+          
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ArtificialNeuronModel_english.png" width="500" height="300">
+     
     - Summation = $w_{1} \times x_{1} + w_{2} \times x_{2} + ...... + w_{n} \times x_{n} + bias$
     - Perceptron aim is to bring the predicted value( $\hat{y}$ ) near to actual value( y ) by reducing loss function by changing the weights and bais.
     - Weight Update Rule for a neuron.
