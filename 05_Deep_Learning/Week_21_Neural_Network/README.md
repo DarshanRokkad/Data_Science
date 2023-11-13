@@ -8,7 +8,7 @@
 
 ## 4. [Activation Function.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/04_Activation_Functions)
 
-## 5. [Forward and Backward Propogation.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/05_Forward_And_Backward_Propogation)
+## 5. [Forward and Backward Propagation.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/05_Forward_And_Backward_Propogation)
 
 ## 6. [ANN in keras.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/06_ANN_In_Keras)
 
@@ -18,7 +18,7 @@
 
 ## 9. [Loss Functions.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/09_Loss_Functions)
 
-## 10. [Batch Normalizaiton.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/10_Batch_Normalisation)
+## 10. [Batch Normalization.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/10_Batch_Normalisation)
 
 ## 11. [Regularization.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network/11_Regularization)
 
