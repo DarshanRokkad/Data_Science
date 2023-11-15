@@ -1,6 +1,4 @@
-<h1 align="center">
-  Data Science
-</h1>
+<h1 align="center">Data Science</h1>
 
 ---
 <h2 align="center" >
