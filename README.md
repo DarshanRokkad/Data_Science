@@ -71,7 +71,7 @@
 </h2>  
 
 ### 1. [Neural Networks.](https://github.com/DarshanRokkad/Data_Science/tree/master/05_Deep_Learning/Week_21_Neural_Network)
-### :green_book:Complete Deep Learning Handwritten Notes : [PDF Download⬇️]() 
+### :green_book:Complete Deep Learning Handwritten Notes : [PDF Download⬇️](https://drive.google.com/file/d/1MEZxranm3FXp1OGXWt-2LGdH9O_XdMpy/view?usp=drive_link)
 
 ---
  
