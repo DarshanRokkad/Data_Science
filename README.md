@@ -83,4 +83,10 @@
 ### 2. [Object Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_23_Object_Detection)
 ### 3. [Advance Object Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_23_Object_Detection)
 
+<h3 align="center">
+ :recycle:Projects:rocket:
+</h3>  
+
+### :dart: [Hand Sign Detection](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_Computer_Vision_Projects/01_Hand_Sign/) :dart: 
+
 ---
