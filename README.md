@@ -82,11 +82,12 @@
 ### 1. [Convolution Neural Networks.](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_22_CNN)
 ### 2. [Object Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_23_Object_Detection)
 ### 3. [Advance Object Detection.](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_23_Object_Detection)
+### 4. [Open CV.](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/01_OpenCV)
 
 <h3 align="center">
  :recycle:Projects:rocket:
 </h3>  
 
-### :dart: [Hand Sign Detection](https://github.com/DarshanRokkad/Data_Science/tree/master/06_Computer_Vision/Week_Computer_Vision_Projects/01_Hand_Sign/) :dart: 
+### :dart: [Hand Sign Detection](https://github.com/DarshanRokkad/Data_Science/blob/master/06_Computer_Vision/02_Computer_Vision_Projects/01_Hand_Sign/03_Custom_yolov7-hand_sign.ipynb) :dart: 
 
 ---
