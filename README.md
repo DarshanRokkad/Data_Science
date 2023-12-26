@@ -64,6 +64,7 @@
 
 ### :dart: [Fire Weather Index Prediction](https://github.com/DarshanRokkad/Forest_Fire) :dart: 
 ### :dart: [Diabetes Prediction](https://github.com/DarshanRokkad/Diabetes_Prediction) :dart: 
+### :dart: [Boston House Price Prediction](https://github.com/DarshanRokkad/boston_house_pricing) :dart: 
 
 --- 
 <h2 align="center">
