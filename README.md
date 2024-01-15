@@ -62,6 +62,7 @@
  :recycle: End To End Projects + Deployment :rocket:
 </h3>  
 
+### :dart: [Fitness Tracker](https://github.com/DarshanRokkad/Fitness_Tracker) :dart: 
 ### :dart: [Student Performance Indicator (Production Level Application)](https://github.com/DarshanRokkad/student_performance_indicator) :dart: 
 ### :dart: [Boston House Price Prediction](https://github.com/DarshanRokkad/boston_house_pricing) :dart: 
 ### :dart: [Diabetes Prediction](https://github.com/DarshanRokkad/Diabetes_Prediction) :dart: 
