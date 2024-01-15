@@ -1,6 +1,6 @@
 <h1 align="center">Data Science</h1>
 
-### :pushpin: [Data Science Project Template](https://github.com/DarshanRokkad/Data_Science)
+### :pushpin: [Data Science Project Template](https://github.com/DarshanRokkad/Data_Science_Project_Template.git)
 
 ---
 <h2 align="center" >
