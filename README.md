@@ -1,5 +1,7 @@
 <h1 align="center">Data Science</h1>
 
+### :pushpin: [Data Science Project Template](https://github.com/DarshanRokkad/Data_Science)
+
 ---
 <h2 align="center" >
   :bookmark:<a href="https://github.com/DarshanRokkad/Data_Science/tree/master/01_Python" style="color: white;">Python</a>
