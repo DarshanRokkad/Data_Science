@@ -1,0 +1,10 @@
+FROM python:3.7-alphine
+WORKDIR /code
+# docker will actually go to the environment and search for app.py application
+ENV FLASK_APP=app.py
+ENV FLASK_APP_HOST=0.0.0.0
+# it is already in the working directory of the docker then it will copy the file of working
+COPY . .
+RUN pip install -r requirements.txt
+EXPOSE 5000
+CMD ["flask", "run"]

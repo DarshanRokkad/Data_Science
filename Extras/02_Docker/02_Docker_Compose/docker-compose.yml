@@ -1,0 +1,15 @@
+# docker compose will take care of build and run part of the dockerfile
+version: "3.0"
+services:
+  # it will create the image for web and redis so there will be 2 containers
+  web:
+    # it will create a web service image
+    # it will build the docker file for the code directory now it is already in the code directory
+    image: web-app
+    build: .
+    ports:
+      - "8000:5000"
+  redis:
+    image: redis
+
+# we can acces the app using 5000 port
