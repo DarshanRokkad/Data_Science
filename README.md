@@ -101,7 +101,7 @@
   :bookmark:<a href="https://github.com/DarshanRokkad/Data_Science/tree/master/07_Natural_Language_Processing">Natural Language Processing</a>
 </h2>  
 
-### 1. [NLP Leatures.](https://github.com/DarshanRokkad/Data_Science/tree/master/07_Natural_Language_Processing/01_NLP_Leatures)
+### 1. [NLP Concepts.](https://github.com/DarshanRokkad/Data_Science/tree/master/07_Natural_Language_Processing/01_NLP_Concepts)
 
 <h3 align="center">
  :recycle:Projects:rocket:
