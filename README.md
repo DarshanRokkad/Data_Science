@@ -96,3 +96,17 @@
 ### :dart: [Hand Sign Detection](https://github.com/DarshanRokkad/Data_Science/blob/master/06_Computer_Vision/02_Computer_Vision_Projects/01_Hand_Sign/03_Custom_yolov7-hand_sign.ipynb) :dart: 
 
 ---
+ 
+<h2 align="center">
+  :bookmark:<a href="https://github.com/DarshanRokkad/Data_Science/tree/master/07_Natural_Language_Processing">Natural Language Processing</a>
+</h2>  
+
+### 1. [NLP Leatures.](https://github.com/DarshanRokkad/Data_Science/tree/master/07_Natural_Language_Processing/01_NLP_Leatures)
+
+<h3 align="center">
+ :recycle:Projects:rocket:
+</h3>  
+
+### :dart: [Email Spam Classification](https://github.com/DarshanRokkad/sms-spam-classifier-project) :dart: 
+
+---
